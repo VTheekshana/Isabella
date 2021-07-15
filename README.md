@@ -1,14 +1,14 @@
 <p align="leaft">
-  <img src="https://telegra.ph/file/d51a609a9d0a1ef79115a.jpg" width='600"'>
+  <img src="https://telegra.ph/file/23b3b4f2fe4a34f783aa2.jpg" width='600"'>
 </p>
 # Dofini Based on Python Telegram Bot
 ## OLD version of Dofini
 # 2 Branches available. this is main brach. swith advanced for all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/Mizu-Dev)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VTheekshana/Isabella)
 
 
-## New version Avaiilable on Telegram as [Mizu](https://t.me/TheMizuBot)
+## New version Avaiilable on Telegram as [Isabella](http://t.me/TheIsabellaBot)
 ## Dofiniv2.0 is the latest
 
 
@@ -33,7 +33,7 @@ This repo was just revamped to suit an Anime-centric community. All original cre
 
 All other credits mentioned on top of scripts
 
-Should any be missing kindly let us know at [Dofini Support](https://t.me/DofiniUpdates) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Isabella Support](https://t.me/IsabellaUpdates) or simply submit a pull request on the readme.
 
 ## Daisy X the telegram Bot Project
 The Advanced Branch (For PRO's)
@@ -41,5 +41,5 @@ The Advanced Branch (For PRO's)
 Dofini v1.0(advvanced)
 
 ## Special Credits
-- [Pawan Theekshana](https://github.com/ImTheekshanaBro) - A Co-Developer of Project
+- [Pawan Theekshana](https://github.com/VTheekshana) - A Co-Developer of Project
 - 
