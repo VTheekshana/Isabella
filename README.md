@@ -1,14 +1,14 @@
 <p align="leaft">
-  <img src="https://telegra.ph/file/23b3b4f2fe4a34f783aa2.jpg" width='600"'>
+  <img src="https://telegra.ph/file/527a83810646371ccb706.jpg" width='600"'>
 </p>
 # Dofini Based on Python Telegram Bot
 ## OLD version of Dofini
 # 2 Branches available. this is main brach. swith advanced for all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VTheekshana/Isabella)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VTheekshana/Olivia)
 
 
-## New version Avaiilable on Telegram as [Isabella](http://t.me/TheIsabellaBot)
+## New version Avaiilable on Telegram as [Olivia](http://t.me/TheOliviaBot)
 ## Dofiniv2.0 is the latest
 
 
