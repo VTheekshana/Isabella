@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [𝘔𝘪𝘻𝘶 𝘋𝘦𝘷](https://telegra.ph/file/d51a609a9d0a1ef79115a.jpg)
+Hello there, I'm [�Olivia](https://telegra.ph/file/527a83810646371ccb706.jpg)
 
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group Developed by t.me/pawan_Theekshana
 
@@ -74,19 +74,19 @@ buttons = [
     [
         InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),  InlineKeyboardButton(text="Developer", callback_data="t.me/Pawan_Theekshana"),
     ],
-    [   InlineKeyboardButton(text="Mizu Spport", callback_data="t.me/MizuSupport_Official"),  InlineKeyboardButton(text="Mizu Updates", callback_data="t.me/MizuUpdates"),
+    [   InlineKeyboardButton(text="Spport", callback_data="t.me/MizuSupport_Official"),  InlineKeyboardButton(text="Updates", callback_data="t.me/MizuUpdates"),
         InlineKeyboardButton(text="❓ Help & Commands ❓", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Mizu Dev to your group 💫", url="http://t.me/MizuDevBot?startgroup=true" 
+            text="➕Add Olivia to your group ➕", url="http://t.me/TheOliviaBot?startgroup=true" 
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/d51a609a9d0a1ef79115a.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/527a83810646371ccb706.jpg)
 
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
@@ -102,7 +102,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Pawan](t.me/Pawan_Theekshana),[Theekshana](t.me/Theekshana_Qeen),"""
+Support them  [Pawan](t.me/Pawan_Theekshana),[Theekshana](t.me/ImTheekshana),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -364,7 +364,7 @@ def DaisyX_about_callback(update, context):
             text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by Infinity_Bots.* "
             f"\n\n 🔥 Join [MW SONGS](https://t.me/mw_song_grup) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
-            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)"
+            f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/527a83810646371ccb706.jpg)"
             f"\n\n👇 You Can Know More About Me By Clicking The Below Buttons 👇",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
